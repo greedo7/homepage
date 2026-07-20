@@ -1,0 +1,5 @@
+sections to include:
+- about
+- music (demos + playlists/mixtapes)
+- projects
+- contact (blog, socials, github)
