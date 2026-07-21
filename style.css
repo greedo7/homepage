@@ -1,17 +1,74 @@
 * {
     color: black
-    background-color white
+    background-color white;
+    font-size: 8pt;
+    font-family: "HelveticaNeue-Thin", Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: rgb(244, 255, 241);
 }
 
 .menu {
+    overflow-y: scroll;
     border-style: solid;
     border-color: black;
+    background-color: white;
     border-width: 2px;
-     width: 85px;
-    height: 76px;
-      transform: matrix3d(-1.162709, -1.061539, 0, -0.003698, 
+    width: 6.25vw;
+    height: auto;
+    transform: matrix3d(-1.162709, -1.061539, 0, -0.003698, 
                     1.303795, 2.049896, 0, 0.000998, 
                     0, 0, 1, 0, 
                     541.213431, 112.264679, 0, 1);
-    transform-origin: -105px -69px 0px;
+    transform-origin: -120px -69px 0px;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+.menu::-webkit-scrollbar {
+    display: none;
+}
+
+
+
+.menu-items {
+    list-style-type: none;
+    margin: 1pt;
+    padding: 1pt;
+}
+
+h2 {
+    padding: 1pt;
+    margin: 1pt;
+}
+
+a:link {
+  color: inherit;
+  text-decoration: none;
+}
+
+a:visited {
+  color: inherit;
+  text-decoration: none;
+}
+
+a:hover {
+  color: palegreen;
+  text-decoration: none;
+}
+
+a:active {
+  color: palegreen;
+  text-decoration: none;
+}
+
+::-moz-selection { /* firefox */
+  color: white;
+  background: palegreen;
+}
+
+::selection {
+  color: white;
+  background: palegreen;
 }

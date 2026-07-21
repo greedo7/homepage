@@ -1,0 +1,40 @@
+* {
+    color: black
+    background-color white;
+    font-size: 8pt;
+    font-family: "HelveticaNeue-Thin", Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: rgb(244, 255, 241);
+}
+
+a:link {
+  color: inherit;
+  text-decoration: none;
+}
+
+a:visited {
+  color: inherit;
+  text-decoration: none;
+}
+
+a:hover {
+  color: palegreen;
+  text-decoration: none;
+}
+
+a:active {
+  color: palegreen;
+  text-decoration: none;
+}
+
+::-moz-selection { /* firefox */
+  color: white;
+  background: palegreen;
+}
+
+::selection {
+  color: white;
+  background: palegreen;
+}
