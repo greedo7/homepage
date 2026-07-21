@@ -6,6 +6,7 @@
 - ascii art?
 - dithering for wtv goes in blank space
 - make menu div properly resizable
+- start thinking about hosting
 
 ok so im gonna add some buttons under the menu and make them scroll
 heres a link that has script for that
