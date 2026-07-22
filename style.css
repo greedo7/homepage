@@ -10,6 +10,7 @@ body {
 }
 
 .menu {
+  position: fixed;
     overflow-y: scroll;
     border-style: solid;
     border-color: black;
@@ -30,7 +31,13 @@ body {
     display: none;
 }
 
-
+#bg-image {
+  position: fixed;
+  padding-left: 10%;
+  padding-top: 7%;
+  width: 36%;
+  height: auto;
+}
 
 .menu-items {
     list-style-type: none;

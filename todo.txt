@@ -1,5 +1,5 @@
 - pick fonts
-- find pictures for bg
+- find replacement for placeholder image
 - create page layouts
 - figure out how pages should display
 - site logo
