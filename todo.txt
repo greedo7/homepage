@@ -1,6 +1,7 @@
 - pick fonts
 - find replacement for placeholder image
 - create page layouts
+- add gallery page
 - figure out how pages should display
 - site logo
 - ascii art?
