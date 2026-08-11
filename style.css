@@ -1,6 +1,13 @@
+small {
+  position: relative;
+  font-size: 10pt;
+  padding-left: 12%;
+}
+
 * {
     color: black;
-    background-color white;
+    background-color: white;
+  font-size: 20pt;
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 
   Helvetica, Arial, "Lucida Grande", sans-serif;
 }
@@ -9,15 +16,10 @@ body {
     background-color: rgb(244, 255, 241);
 }
 
-small {
-  position: relative;
-  font-size: 10pt;
-  padding-left: 12%;
-}
+
 
 .menu {
   position: fixed;
-  font-size: 20pt;
   top: 15vw;
   right: 8vw;
     overflow-y: scroll;
