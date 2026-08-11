@@ -10,6 +10,12 @@ body {
     background-color: rgb(244, 255, 241);
 }
 
+small {
+  position: relative;
+  font-size: 10pt;
+  padding-left: 12%;
+}
+
 .menu {
   position: fixed;
   top: 15vw;
