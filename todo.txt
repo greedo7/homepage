@@ -4,6 +4,7 @@
 - dithering for wtv goes in blank space
 - start thinking about hosting
 - guestbook kinda thing
+- a blog
 
 ok so im gonna add some buttons over the menu and make them scroll
 heres a link that has script for that
