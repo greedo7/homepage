@@ -1,14 +1,10 @@
-- pick fonts
-- find replacement for placeholder image
 - create page layouts
-- add gallery page
-- figure out how pages should display
-- site logo
-- ascii art?
+- find pics for each subpage
+- design gallery page
 - dithering for wtv goes in blank space
-- make menu div properly resizable
 - start thinking about hosting
+- guestbook kinda thing
 
-ok so im gonna add some buttons under the menu and make them scroll
+ok so im gonna add some buttons over the menu and make them scroll
 heres a link that has script for that
 https://web.archive.org/web/20240228110702/http://dynamicdrive.com/dynamicindex2/crawler/index.htm

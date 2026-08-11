@@ -3,3 +3,4 @@ sections to include:
 - music (demos + playlists/mixtapes)
 - projects
 - contact (blog, socials, github)
+- gallery (graphic design and photography i feel like sharing)

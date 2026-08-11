@@ -1,12 +1,30 @@
 * {
     color: black
     background-color white;
-    font-size: 8pt;
+    text-align: right;
+    font-size: 10pt;
     font-family: "HelveticaNeue-Thin", Arial, Helvetica, sans-serif;
+    list-style-type: none;
+}
+
+h1 {
+  font-size: 14pt;
+}
+
+h2 {
+  font-size: 12pt;
 }
 
 body {
     background-color: rgb(244, 255, 241);
+}
+
+footer {
+  position: fixed;
+    align-self: flex-end;
+    text-align: left;
+    bottom: 0;
+    padding-bottom: 0.5vw;
 }
 
 a:link {
@@ -30,11 +48,11 @@ a:active {
 }
 
 ::-moz-selection { /* firefox */
-  color: white;
-  background: palegreen;
+  color: palegreen;
+  background: none;
 }
 
 ::selection {
-  color: white;
-  background: palegreen;
+  color: palegreen;
+  background: none;
 }
